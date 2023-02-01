@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-sad fact : 
-
-
 
 ## ADDED
 ## ADDED TWICE
