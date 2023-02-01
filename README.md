@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 ## ADDED
 ## ADDED TWICE
-## ADDED TRIPPLE
+## ADDED TRIPLE
