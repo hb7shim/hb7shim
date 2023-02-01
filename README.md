@@ -1,4 +1,4 @@
-### Hi there 👋
+### HELLO, THERE...
 
 <!--
 **hb7shim/hb7shim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+sad fact : 
+
+
 
 ## ADDED
